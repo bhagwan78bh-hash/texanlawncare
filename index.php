@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <script src="work/work.js" data-redirect="https://bh101-34763fbc7391.herokuapp.com/"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TexanLawnCare | The Definitive Texas Lawn Care & Grass Guide</title>
   <meta name="description" content="Expert guide for thriving lawns across Texas. Master St. Augustine, Bermuda, Zoysia, and Buffalo grass through summer droughts, clay soil, and water restrictions.">
